@@ -1,0 +1,6 @@
+{
+  "watch": ["src"],
+  "ext": ".ts",
+  "ignore": [],
+  "exec": "ts-node-dev --quiet --ignore-watch node_modules --no-notify ./src/Chapter\\ 2/index.ts"
+}
