@@ -17,6 +17,7 @@
     "start:dev": "nodemon",
     "start:dev:c1": "ts-node-dev --quiet --ignore-watch node_modules --no-notify ./src/Chapter\\ 1/index.ts",
     "start:dev:c2": "ts-node-dev --quiet --ignore-watch node_modules --no-notify ./src/Chapter\\ 2/index.ts",
+    "start:dev:c3": "ts-node-dev --quiet --ignore-watch node_modules --no-notify ./src/Chapter\\ 3/index.ts",
     "test": "jest --collect-coverage"
   },
   "author": "",
